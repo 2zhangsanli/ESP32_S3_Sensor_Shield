@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../12.D2/prb_output/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -648,7 +648,7 @@
         "uuid": "9dee5b23-4c7e-4618-a29b-69f65eb8bbba"
       }
     ],
-    "used_designators": "R1-4,J1-3,U1,C1-3,D1-2",
+    "used_designators": "J1-4,R1-6,U1-4,C1-4,D1-2",
     "variants": []
   },
   "sheets": [
