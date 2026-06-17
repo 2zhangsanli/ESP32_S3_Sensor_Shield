@@ -2027,7 +2027,7 @@
 				)
 			)
 		)
-		(property "Value" "HCM5883L"
+		(property "Value" "HMC5883L"
 			(at 0 12.54 0)
 			(layer "F.Fab")
 			(uuid "6e9814aa-0701-49a0-b6ad-47ef57c8a1ca")

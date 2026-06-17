@@ -3226,7 +3226,7 @@
 				)
 			)
 		)
-		(property "Value" "HCM5883L"
+		(property "Value" "HMC5883L"
 			(at 169.418 99.314 0)
 			(show_name no)
 			(do_not_autoplace no)
